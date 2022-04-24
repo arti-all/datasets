@@ -11,7 +11,8 @@ The folder contains the responses of 97 developers who had used JCA APIs in thei
 We analysed nearly all of the crypto-related questions on Stack Overflow. The folder includes the posts, pyLDA chart, tags per topic, and initial tags.
 5. mapping_data (https://ieeexplore.ieee.org/abstract/document/9680277)
 The folder includes top-rated users in cryptography and the initial tags for finding crypto-related topics
-
+6. crypto_libs (https://arxiv.org/pdf/2111.01406.pdf)
+This folder includes 500 Stack Overflow questions from 20 crypto libraries that were analyzed to find common issues in crypto libraries.
 
 
 # License
