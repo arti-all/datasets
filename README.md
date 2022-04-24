@@ -13,6 +13,7 @@ We analysed nearly all of the crypto-related questions on Stack Overflow. The fo
 The folder includes top-rated users in cryptography and the initial tags for finding crypto-related topics
 6. crypto_libs (https://arxiv.org/pdf/2111.01406.pdf)
 This folder includes 500 Stack Overflow questions from 20 crypto libraries that were analyzed to find common issues in crypto libraries.
+7. crypto_explorer (the source code of the platform + JCA files)
 
 
 # License
